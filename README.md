@@ -69,6 +69,7 @@
 | Company                                                                       | Location                         | Industry                              | Japanese Required?           |
 | ----------------------------------------------------------------------------- | -------------------------------- | ------------------------------------- | ---------------------------- |
 | [Abeja](https://abeja.asia)                                                   | Tokyo (Minato-ku)                | Data Analytics                        | Yes                          |
+| [beBit Inc.](https://www.bebit.co.jp/usergram/)                               | Tokyo (Otemachi)                 | Customer Success and Experience Design         | No                           |
 | [Bespoke](https://www.be-spoke.io/jobs/)                                      | Tokyo (Shibuya-ku)               | Tourism-oriented chat service         | No                           |
 | [Bitflyer](https://bitflyer.jp/Recruit)                                       | Tokyo (Minato-ku)                | Block-chain, Bitcoin                  | Yes                          |
 | [Cogent Labs](https://cogent.co.jp)                                           | Tokyo (Shibuya-ku)               | Artificial Intelligence, Deep Learning    | No |
@@ -98,6 +99,7 @@
 | [Voyagin](https://www.govoyagin.com/careers?lang=en)                          | Tokyo (Shibuya-ku)               | Travel                                | No?                          |
 | [Wizcorp](https://wizcorp.workable.com)                                       | Tokyo (Chuo-ku)                  | Gaming                                | No                           |
 | [Yumemi](http://recruit.yumemi.co.jp/)                                        | Tokyo (Setagaya-ku)              | Consulting                            | Yes                          |
+
 
 ### <a name="resources">Other resources</a>
 
